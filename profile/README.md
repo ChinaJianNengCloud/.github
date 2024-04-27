@@ -12,4 +12,4 @@
 -->
 
 ## [接受组织邀请](./组织管理.md#接受组织邀请)
-## [工具指引文档](./工具指引.md#工具指引文档)
+## [工具指引文档](https://github.com/ChinaJianNengCloud/MemberDocs/blob/main/%E5%B7%A5%E5%85%B7%E6%8C%87%E5%BC%95.md)
